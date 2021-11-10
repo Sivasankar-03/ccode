@@ -1,2 +1,4 @@
 hello i made chanege in text file
-local repo pulled
+
+remote repoo
+
